@@ -10,6 +10,10 @@ Welcome to Duck Creek Example Forms Mate, an innovative tool designed to streaml
 - **CI/CD Integration**: Robust deployment through CI/CD pipelines on Heroku, ensuring seamless updates and high reliability.
 - **Automated Testing**: Incorporates `pytest` for comprehensive automated testing to maintain code quality.
 
+## Project Workflow
+
+https://github.com/user-attachments/assets/062145f0-cc87-45c0-bbb6-7d523a687998
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
