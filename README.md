@@ -11,8 +11,9 @@ Welcome to Duck Creek Example Forms Mate, an innovative tool designed to streaml
 - **Automated Testing**: Incorporates `pytest` for comprehensive automated testing to maintain code quality.
 
 ## Project Workflow
+https://github.com/user-attachments/assets/21de7cd8-5642-4d71-989b-6bbe7ba4cdcd
 
-https://github.com/user-attachments/assets/062145f0-cc87-45c0-bbb6-7d523a687998
+<!-- https://github.com/user-attachments/assets/062145f0-cc87-45c0-bbb6-7d523a687998 -->
 
 ## Prerequisites
 
@@ -35,6 +36,10 @@ python3 app.py
 ```
 ## Running Tests
 Execute the test suite with:
+
+
+
+
 
 ```bash
 pytest
